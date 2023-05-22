@@ -1,2 +1,2 @@
 # spring-security
-User microservice sample
+Spring User microservice module with security dependency and different configuration options
